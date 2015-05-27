@@ -1,5 +1,6 @@
 ---
 layout: Topics
+index: 9
 chapter: Chapter 9
 title: Feedback Control & Root Locus Analysis
 lecture-index: TBD

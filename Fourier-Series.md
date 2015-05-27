@@ -1,5 +1,6 @@
 ---
 layout: Topics
+index: 2
 chapter: Chapter 2
 title: Fourier Series for Periodic Signals
 lecture-index: TBD

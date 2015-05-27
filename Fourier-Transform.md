@@ -1,5 +1,6 @@
 ---
 layout: Topics
+index: 3
 chapter: Chapter 3
 title: Fourier Transform for Aperiodic Signals
 lecture-index: TBD

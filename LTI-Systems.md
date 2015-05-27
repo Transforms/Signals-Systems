@@ -1,5 +1,6 @@
 ---
 layout: Topics
+index: 1
 chapter: Chapter 1
 title: Linear Time-Invariant Systems
 lecture-index: TBD

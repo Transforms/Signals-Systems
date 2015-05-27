@@ -1,5 +1,6 @@
 ---
 layout: Topics
+index: 4
 chapter: Chapter 4
 title: Phase Distortion & 2D Fourier Transform
 lecture-index: TBD

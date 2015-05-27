@@ -1,6 +1,7 @@
 ---
 layout: Topics
 chapter: Chapter 5
+index: 5
 title: Discrete Fourier Transform (DFT)
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
