@@ -1,7 +1,7 @@
 ---
 layout: Topics
 chapter: Chapter 6
-title: 6. Sampling
+title: Sampling
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
