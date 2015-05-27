@@ -1,7 +1,7 @@
 ---
 layout: Topics
 chapter: Chapter 7
-title: The Laplace Transform
+title: 7. The Laplace Transform
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---

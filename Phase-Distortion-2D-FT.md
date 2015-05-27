@@ -1,7 +1,7 @@
 ---
 layout: Topics
 chapter: Chapter 4
-title: Phase Distortion & 2D Fourier Transform
+title: 4. Phase Distortion & 2D Fourier Transform
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---

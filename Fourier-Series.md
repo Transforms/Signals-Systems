@@ -1,7 +1,7 @@
 ---
 layout: Topics
 chapter: Chapter 2
-title: Fourier Series for Periodic Signals
+title: 2. Fourier Series for Periodic Signals
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
