@@ -1,11 +1,11 @@
 ---
 layout: Topics
-title: Chapter 10 THE Z-TRANSFORM
+title: Chapter 1 LINEAR TIME-INVARIANT SYSTEMS
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
 ## Introduction: 
-In Chapter 9, we developed the Laplace Transform as an extension of the continuous-time Fourier transform. In this chapter, we will be using the similar approach for discrete time as we develop the z-transform, which is the discrete-time counterpart of the Laplace transform. However, be prepared for some important distinctions between the z-tranforms and the Laplace transform that arise from the fundamental differences between the continuous-time and discrete-time signals and systems.
+There are a number of basic system properties. Two of these, linearity and time-invaraince, play a fundamental role in signal and system analysis. In this chapter, we will develop an understanding of these properties by deriving and examining a fundamental and extremely useful representationf for LTI systems and by introducting an important class of these systems.
 
 ## Lectures
 
