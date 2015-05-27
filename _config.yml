@@ -13,7 +13,7 @@
 # # Build settings
 # markdown: kramdown
 
-name: Christmas Recipes
+name: Signals-Systems
 markdown: redcarpet
 pygments: true
 baseurl: /Signals-Systems
