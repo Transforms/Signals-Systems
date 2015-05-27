@@ -1,6 +1,6 @@
 ---
 layout: Topics
-title: Chapter 1 - LINEAR TIME-INVARIANT SYSTEMS
+title: Chapter 1 - Linear Time-Invariant Systems
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---

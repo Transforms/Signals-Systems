@@ -1,6 +1,6 @@
 ---
 layout: Topics
-title: Chapter 9 - FEEDBACK CONTROL & ROOT LOCUS ANALYSIS
+title: Chapter 9 - Feedback Control & Root Locus Analysis
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
