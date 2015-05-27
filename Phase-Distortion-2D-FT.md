@@ -1,6 +1,6 @@
 ---
 layout: Topics
-title: Chapter 4 PHASE DISTORTION & TWO DIMENSIONAL FOURIER TRANSFORM
+title: Chapter Four PHASE DISTORTION & TWO DIMENSIONAL FOURIER TRANSFORM
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---

@@ -1,6 +1,6 @@
 ---
 layout: Topics
-title: Chapter 3 FOURIER TRANSFORM FOR APERIODIC SIGNALS
+title: Chapter Three FOURIER TRANSFORM FOR APERIODIC SIGNALS
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---

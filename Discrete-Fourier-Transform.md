@@ -1,6 +1,6 @@
 ---
 layout: Topics
-title: Chapter 5 DISCRETE FOURIER TRANSFORM (DFT)
+title: Chapter Five DISCRETE FOURIER TRANSFORM (DFT)
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
