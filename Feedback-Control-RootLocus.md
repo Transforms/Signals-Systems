@@ -1,11 +1,11 @@
 ---
 layout: Topics
-title: Chapter 8 THE Z-TRANSFORM
+title: Chapter 9 FEEDBACK CONTROL & ROOT LOCUS ANALYSIS
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
 ## Introduction: 
-In Chapter 9, we developed the Laplace Transform as an extension of the continuous-time Fourier transform. In this chapter, we will be using the similar approach for discrete time as we develop the z-transform, which is the discrete-time counterpart of the Laplace transform. However, be prepared for some important distinctions between the z-tranforms and the Laplace transform that arise from the fundamental differences between the continuous-time and discrete-time signals and systems.
+By saying feedback control, we mean to use the output of a system to control or modify the input of the same system. Two most seen systems are open-loop system and closed-loop system. Feedback system can have both useful and harmful effects and we will see how our change of parameters in a feedback control can lead to different behavior of the system. Our goal is to have you be able to design feedback systems that have certain desirable characteristics/
 
 ## Lectures
 

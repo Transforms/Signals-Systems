@@ -1,11 +1,11 @@
 ---
 layout: Topics
-title: Chapter 8 THE Z-TRANSFORM
+title: Chapter 6 SAMPLING
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
 ## Introduction: 
-In Chapter 9, we developed the Laplace Transform as an extension of the continuous-time Fourier transform. In this chapter, we will be using the similar approach for discrete time as we develop the z-transform, which is the discrete-time counterpart of the Laplace transform. However, be prepared for some important distinctions between the z-tranforms and the Laplace transform that arise from the fundamental differences between the continuous-time and discrete-time signals and systems.
+Under certain conditions, a continuous-time signal can be completely represented by and recovered from knowledge of its value, or samples, at points equally spaced in time. This property follows from a basic result that is referred to as the sampling theorem. In this chapter, we will study the concept of sampling and the process of reconstructing a continous-time siganl from its samples. Certainly there will be some limitatino in completely recovering the continous-time signals from its samples. What are some necessary conditions for the success of this recovery?
 
 ## Lectures
 

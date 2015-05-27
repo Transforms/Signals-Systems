@@ -1,11 +1,11 @@
 ---
 layout: Topics
-title: Chapter 8 THE Z-TRANSFORM
+title: Chapter 2 FOURIER SERIES FOR PERIODIC SIGNALS
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
 ## Introduction: 
-In Chapter 9, we developed the Laplace Transform as an extension of the continuous-time Fourier transform. In this chapter, we will be using the similar approach for discrete time as we develop the z-transform, which is the discrete-time counterpart of the Laplace transform. However, be prepared for some important distinctions between the z-tranforms and the Laplace transform that arise from the fundamental differences between the continuous-time and discrete-time signals and systems.
+In this chapter, we focus on the Fourier Series for continuous-time and discrete-time periodic signals. We will see how the response of an LTI system to a complex exponential also has a particular simple form, which then provides us with another convenient way to analyze the LTI system and its properties. Later we will extend the analysis to the Fourier transform of the broad classes of aperiodic, finite energy signals. 
 
 ## Lectures
 

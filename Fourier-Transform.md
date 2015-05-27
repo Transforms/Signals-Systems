@@ -1,11 +1,11 @@
 ---
 layout: Topics
-title: Chapter 8 THE Z-TRANSFORM
+title: Chapter 3 FOURIER TRANSFORM FOR APERIODIC SIGNALS
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
 ## Introduction: 
-In Chapter 9, we developed the Laplace Transform as an extension of the continuous-time Fourier transform. In this chapter, we will be using the similar approach for discrete time as we develop the z-transform, which is the discrete-time counterpart of the Laplace transform. However, be prepared for some important distinctions between the z-tranforms and the Laplace transform that arise from the fundamental differences between the continuous-time and discrete-time signals and systems.
+In last chapter we developed a representation of periodic signals as linear combinations of complex exponentials. In this current chapter we will extend these concepts to apply to aperiod signals. We will come to see how this large class of signals, including all signals with finite energy, can also be represented through a linear combination of complex exponentials.
 
 ## Lectures
 
