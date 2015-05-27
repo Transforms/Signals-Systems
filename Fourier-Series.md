@@ -1,6 +1,6 @@
 ---
 layout: Topics
-title: Chapter Two FOURIER SERIES FOR PERIODIC SIGNALS
+title: Chapter 2 - FOURIER SERIES FOR PERIODIC SIGNALS
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
