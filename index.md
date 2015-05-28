@@ -6,7 +6,8 @@ subheading: Welcome to the world of Transforms, Signals and Systems!
 Syllabus:
 
 ## Course Description: 
-Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series,
+       Continuous and discrete-time transform analysis techniques with illustrative 
+applications. Linear and time-invariant systems, transfer functions. Fourier series,
 Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of 
 differential and difference equations using transforms. Frequency response, Bode plots,
 stability analysis. Illustrated by analysis of communication systems and feedback 
@@ -20,10 +21,13 @@ control systems.
 * Sample engineering application:  guidance and navigation of autonomous systems
 
 ## Web site:
-bCourses will be used for announcements, lecture notes, grades, and solutions to tests and homework sets.   Piazza will be used for discussion and polls (click on Piazza on the left navigation bar).
+        bCourses will be used for announcements, lecture notes, grades, and solutions 
+to tests and homework sets. Piazza will be used for discussion and polls (click on 
+Piazza on the left navigation bar).
 
 ## Grading:
 * Homework:  15 points.  
-* Midterms 1 and 2:  25 points each.  
+* Midterms 1:  25 points. 
+* Midterms 2:  25 points.
 * Final: 35 points.
 
