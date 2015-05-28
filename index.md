@@ -3,16 +3,17 @@ layout: default
 title: EL ENG 120 - Signals and Systems
 subheading: Welcome to the world of Transforms, Signals and Systems!
 ---
-Syllabus:
+## Syllabus:
 
 ## Course Description: 
 
-Continuous and discrete-time transform analysis techniques with illustrative 
-applications. Linear and time-invariant systems, transfer functions. Fourier series,
-Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of 
-differential and difference equations using transforms. Frequency response, Bode plots,
-stability analysis. Illustrated by analysis of communication systems and feedback 
-control systems.
+* Continuous and discrete-time transform analysis techniques with illustrative applications. 
+* Linear and time-invariant systems, transfer functions. 
+* Fourier series, Fourier transform, Laplace and Z-transforms. 
+* Sampling and reconstruction. 
+* Solution of differential and difference equations using transforms. 
+* Frequency response, Bode plots, stability analysis. 
+* Illustrated by analysis of communication systems and feedback control systems.
 
 ## Course Outline: 
 
@@ -24,9 +25,7 @@ control systems.
 
 ## Web site:
 
-bCourses will be used for announcements, lecture notes, grades, and solutions 
-to tests and homework sets. Piazza will be used for discussion and polls (click
-on Piazza on the left navigation bar).
+1. bCourses - announcements, lecture notes, grades, and solutions to tests and homework.2. Piazza will be used for discussion and polls.
 
 ## Grading:
 * Homework:  15 points.  
