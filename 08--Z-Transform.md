@@ -1,8 +1,8 @@
 ---
 layout: Topics
+title: Chapter 8 The Z-Transform
 chapter: Chapter 8
-title: The Z-transform
-index: 8
+Lname: The Z-Transform
 lecture-index: TBD
 lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
