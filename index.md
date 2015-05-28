@@ -7,7 +7,7 @@ Syllabus:
 
 ## Course Description: 
 
-       Continuous and discrete-time transform analysis techniques with illustrative 
+Continuous and discrete-time transform analysis techniques with illustrative 
 applications. Linear and time-invariant systems, transfer functions. Fourier series,
 Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of 
 differential and difference equations using transforms. Frequency response, Bode plots,
@@ -24,9 +24,9 @@ control systems.
 
 ## Web site:
 
-        bCourses will be used for announcements, lecture notes, grades, and solutions 
-to tests and homework sets. Piazza will be used for discussion and polls (click on 
-Piazza on the left navigation bar).
+bCourses will be used for announcements, lecture notes, grades, and solutions 
+to tests and homework sets. Piazza will be used for discussion and polls (click
+on Piazza on the left navigation bar).
 
 ## Grading:
 * Homework:  15 points.  
