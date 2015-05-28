@@ -25,7 +25,8 @@ subheading: Welcome to the World of Transforms, Signals and Systems!
 
 ## Web site:
 
-1. bCourses - announcements, lecture notes, grades, and solutions to tests and homework.2. Piazza will be used for discussion and polls.
+1. bCourses - announcements, lecture notes, grades, and solutions to tests and homework.
+2. Piazza will be used for discussion and polls.
 
 ## Grading:
 * Homework:  15 points.  
