@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EL ENG 120 - Signals and Systems
-subheading: Welcome to the world of Transforms, Signals and Systems!
+subheading: Welcome to the World of Transforms, Signals and Systems!
 ---
 ## Syllabus:
 
