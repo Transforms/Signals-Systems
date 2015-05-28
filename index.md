@@ -34,3 +34,5 @@ subheading: Welcome to the World of Transforms, Signals and Systems!
 * Midterms 2:  25 points.
 * Final: 35 points.
 
+## Course Material: 
+
