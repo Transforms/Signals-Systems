@@ -4,7 +4,7 @@ chapter: Chapter 3
 Lname: Fourier Transform for Aperiodic Signals
 title: Chapter 3 Fourier Transform for Aperiodic Signals
 lecture-index: TBD
-lecture-record-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
+lecture-record-link:
 ---
 ## Introduction: 
 
